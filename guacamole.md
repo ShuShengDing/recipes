@@ -5,3 +5,4 @@
 * salt
 ## Instructions
 Place all ingredients in a bowl and mash together
+Eat with nachos
